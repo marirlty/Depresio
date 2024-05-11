@@ -1,2 +1,3 @@
-# Depresio
-es para una taREA
+# Depresion
+es para una tarea 
+cultura diguital
